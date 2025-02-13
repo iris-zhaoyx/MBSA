@@ -1,6 +1,5 @@
-<div align="center">
-
 # 1  Install environment
+
 Please follow the instructions in DATASET.md.
 
 
