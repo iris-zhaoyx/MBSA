@@ -46,7 +46,7 @@ python img2video.py
 
 ## 3.1 data preparation
 A dataset called SS-ASD contains seven categories of actions (turning, pointing, airplane playing, car pushing, toy jumping, water drinking, and watching people).
-SS-ASD:https://github.com/iris-zhaoyx/MBSA.
+SS-ASD:https://doi.org/10.6084/m9.figshare.28330241.v1.
 
 ## 3.2 train
 ```python
